@@ -105,7 +105,7 @@ iPXE.
 Copyright & License
 -------------------
 
-Copyright © 2022 Tom Dworzanski (tdworz).
+Copyright © 2022-2023 Tom Dworzanski (tdworz).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the “Software”), to deal in
